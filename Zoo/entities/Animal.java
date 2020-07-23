@@ -1,7 +1,5 @@
 package entities;
 
-import java.util.concurrent.ThreadLocalRandom;
-
 public class Animal {
     
     protected String name;
